@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>ResumeServlet</servlet-name>
-        <servlet-class>com.gaurav.onlineresumebuilder.Resumebuilder</servlet-class>
+        <servlet-class>com.maaady.onlineresumebuilder.Resumebuilder</servlet-class>
     </servlet>
 
     <servlet-mapping>
